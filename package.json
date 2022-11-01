@@ -1,0 +1,26 @@
+{
+  "name": "consumo_api_pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sharonina/lamuvi.git"
+  },
+  "keywords": [
+    "API",
+    "java",
+    "script",
+    "html",
+    "css"
+  ],
+  "author": "@Sharonina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sharonina/lamuvi/issues"
+  },
+  "homepage": "https://github.com/Sharonina/lamuvi#readme"
+}
